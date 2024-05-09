@@ -1,0 +1,5 @@
+node_modules/
+.DS_Store
+.env
+/backend/wp-config.php
+/backend/wp-content/debug.log
